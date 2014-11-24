@@ -1,2 +1,2 @@
 newBranchFile.txt
-modifica da remoto.
+modifica da remoto
